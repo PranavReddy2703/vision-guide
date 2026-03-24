@@ -1,0 +1,38 @@
+# --- Python (FastAPI) ---
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+.env
+
+# --- Android ---
+*.iml
+.gradle
+/local.properties
+/.idea/caches
+/.idea/libraries
+build/
+captures/
+.externalNativeBuild
+.cxx/
+*.apk
+*.aar
+
+# --- Windows System Files ---
+Thumbs.db
+desktop.ini
+$RECYCLE.BIN/
+
+# --- macOS System Files ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# --- IDEs (VS Code & Android Studio) ---
+.vscode/
+.idea/
+*.swp
+*.patch
